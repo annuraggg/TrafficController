@@ -28,7 +28,7 @@ TrafficController is an embedded systems project designed to automate and optimi
 
 ---
 
-## Example Hardware Connections
+## Hardware Connections
 
 - **Ultrasonic Sensors**: Wired to microcontroller pins defined in the code (e.g., TRIGGER_PIN_1/ECHO_PIN_1 for lane 1).
 - **Signal Lights**: Three pins per signal (red, yellow, green LEDs or relays).
